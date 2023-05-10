@@ -10,4 +10,5 @@ module test.td_tp1 {
     exports com.example.partie1;
     exports com.example.partie2;
     exports com.example.exo4;
+    exports com.example.exo5;
 }
