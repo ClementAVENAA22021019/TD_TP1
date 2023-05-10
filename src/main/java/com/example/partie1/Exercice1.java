@@ -12,9 +12,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-
-import static javafx.application.Application.launch;
-
 public class Exercice1 extends Application{
     @Override
     public void start(Stage primaryStage) {
